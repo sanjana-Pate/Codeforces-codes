@@ -1,4 +1,4 @@
-                                         1. Bear and Big Brother
+                                          Bear and Big Brother
 
 Bear Limak wants to become the largest of bears, or at least to become larger than his brother Bob.
 
@@ -25,7 +25,7 @@ Examples
 2
 
 
-                                                        2.Beautiful Matrix
+                                                        Beautiful Matrix
 
 You've got a 5 × 5 matrix, consisting of 24 zeroes and a single number one. Let's index the matrix rows by numbers from 1 to 5 from top to bottom, let's index the matrix columns by numbers from 1 to 5 from left to right. In one move, you are allowed to apply one of the two following transformations to the matrix:
 
@@ -55,7 +55,7 @@ output
 3
 
 
-                                                              3.Beautiful Year
+                                                              Beautiful Year
 
 It seems like the year of 2013 came only yesterday. Do you know a curious fact? The year of 2013 is the first year after the old 1987 with only distinct digits.
 
@@ -79,7 +79,7 @@ output
 2013
 
 
-                                                                4. Bit++
+                                                                 Bit++
 
 The classic programming language of Bitland is Bit++. This language is so peculiar and complicated.
 
@@ -109,7 +109,7 @@ output
 1
 
 
-                                                     5.Boy or Girl
+                                                      Boy or Girl
 
 Those days, many boys use beautiful girls' photos as avatars in forums. So it is pretty hard to tell the gender of a user at the first glance. Last year, our hero went to a forum and had a nice chat with a beauty (he thought so). After that they talked very often and eventually they became a couple in the network.
 
@@ -139,7 +139,7 @@ output
 IGNORE HIM!
 
  
-                                                                6. Anton and Danik
+                                                                 Anton and Danik
 
 Anton likes to play chess, and so does his friend Danik.
 
@@ -178,7 +178,7 @@ output
 Danik
 
 
-                                                    7.Petya and Strings
+                                                    Petya and Strings
 
 Little Petya loves presents. His mum bought him two strings of the same size for his birthday. The strings consist of uppercase and lowercase Latin letters. Now Petya wants to compare those two strings lexicographically. The letters' case does not matter, that is an uppercase letter is considered equivalent to the corresponding lowercase letter. Help Petya perform the comparison.
 
@@ -197,7 +197,7 @@ output
 0
 
 
-                                                               8. Domino piling
+                                                                Domino piling
 
 You are given a rectangular board of M × N squares. Also you are given an unlimited number of standard domino pieces of 2 × 1 squares. You are allowed to rotate the pieces. You are asked to place as many dominoes as possible on the board so as to meet the following conditions:
 
@@ -223,7 +223,7 @@ output
 4
 
 
-                                                   9.Elephant
+                                                     Elephant
 
 An elephant decided to visit his friend. It turned out that the elephant's house is located at point 0 and his friend's house is located at point x(x > 0) of the coordinate line. In one step the elephant can move 1, 2, 3, 4 or 5 positions forward. Determine, what is the minimum number of steps he need to make in order to get to his friend's house.
 
@@ -240,7 +240,7 @@ input
 output
 1
 
-                                                                      10.Vanya and Fence
+                                                                      Vanya and Fence
 
 Vanya and his friends are walking along the fence of height h and they do not want the guard to notice them. In order to achieve this the height of each of the friends should not exceed h. If the height of some person is greater than h he can bend down and then he surely won't be noticed by the guard. The height of the i-th person is equal to ai.
 
@@ -262,7 +262,7 @@ input
 output
 4
 
-                                                        11. Helpful Maths
+                                                          Helpful Maths
 
 Xenia the beginner mathematician is a third year student at elementary school. She is now learning the addition operation.
 
@@ -285,7 +285,44 @@ output
 1+2+3
 
 
-                                                      12. Translation
+                                                                  In search of an easy problem
+When preparing a tournament, Codeforces coordinators try treir best to make the first problem as easy as possible. This time the coordinator had chosen some problem and asked n
+ people about their opinions. Each person answered whether this problem is easy or hard.
+
+If at least one of these n
+ people has answered that the problem is hard, the coordinator decides to change the problem. For the given responses, check if the problem is easy enough.
+
+Input==
+The first line contains a single integer n
+ (1≤n≤100
+) — the number of people who were asked to give their opinions.
+
+The second line contains n
+ integers, each integer is either 0
+ or 1
+. If i
+-th integer is 0
+, then i
+-th person thinks that the problem is easy; if it is 1
+, then i
+-th person thinks that the problem is hard.
+
+Output==
+Print one word: "EASY" if the problem is easy according to all responses, or "HARD" if there is at least one person who thinks the problem is hard.
+
+You may print every letter in any register: "EASY", "easy", "EaSY" and "eAsY" all will be processed correctly.
+
+Examples
+input
+3
+0 0 1
+
+output
+HARD
+
+
+
+                                                       Translation
 
 The translation from the Berland language into the Birland language is not an easy task. Those languages are very similar: a berlandish word differs from a birlandish word with the same meaning a little: it is spelled (and pronounced) reversely. For example, a Berlandish word code corresponds to a Birlandish word edoc. However, it's easy to make a mistake during the «translation». Vasya translated word s from Berlandish into Birlandish as t. Help him: find out if he translated the word correctly.
 
@@ -305,7 +342,7 @@ output
 YES
 
   
-                                                           13.Nearly Lucky Number
+                                                            Nearly Lucky Number
 
 Petya loves lucky numbers. We all know that lucky numbers are the positive integers whose decimal representations contain only the lucky digits 4 and 7. For example, numbers 47, 744, 4 are lucky and 5, 17, 467 are not.
 
@@ -328,7 +365,7 @@ output
 NO
 
 
-                                                                            14.Next Round
+                                                                            Next Round
 
 "Contestant who earns a score equal to or greater than the k-th place finisher's score will advance to the next round, as long as the contestant earns a positive score..." — an excerpt from contest rules.
 
@@ -350,7 +387,7 @@ input
 output
 6
 
-                                                       15.Soldier and Bananas
+                                                         Soldier and Bananas
 
 A soldier wants to buy w bananas in the shop. He has to pay k dollars for the first banana, 2k dollars for the second one and so on (in other words, he has to pay i·k dollars for the i-th banana).
 
@@ -370,7 +407,7 @@ output
 13
 
 
-                                                                16. Stones on the Table
+                                                                 Stones on the Table
 
 There are n stones on the table in a row, each of them can be red, green or blue. Count the minimum number of stones to take from the table so that any two neighboring stones had different colors. Stones in a row are considered neighboring if there are no other stones between them.
 
@@ -392,7 +429,7 @@ output
 1
 
 
-                                                 17. Way Too Long Words
+                                                     Way Too Long Words
 
 Sometimes some words like "localization" or "internationalization" are so long that writing them many times in one text is quite tiresome.
 
@@ -426,7 +463,7 @@ i18n
 p43s
 
 
-                                                      18.Wrong Subtraction
+                                                      Wrong Subtraction
 
 Little girl Tanya is learning how to decrease a number by one, but she does it wrong with a number consisting of two or more digits. Tanya subtracts one from a number by the following algorithm:
 
@@ -461,7 +498,7 @@ input
 output
 50
 
-                                                              19.Team
+                                                               Team
 
 One day three best friends Petya, Vasya and Tonya decided to form a team and take part in programming contests. Participants are usually offered several problems during programming contests. Long before the start the friends decided that they will implement a problem if at least two of them are sure about the solution. Otherwise, the friends won't write the problem's solution.
 
@@ -484,7 +521,7 @@ input
 output
 2
 
-                                                        20.Tram
+                                                         Tram
 
 Linear Kingdom has exactly one tram line. It has n stops, numbered from 1 to n in the order of tram's movement. At the i-th stop ai passengers exit the tram, while bi passengers enter it. The tram is empty before it arrives at the first stop. Also, when the tram arrives at the last stop, all passengers exit so that it becomes empty.
 
@@ -515,7 +552,7 @@ output
 6
 
 
-                                                            21. Watermelon
+                                                              Watermelon
 
 One hot summer day Pete and his friend Billy decided to buy a watermelon. They chose the biggest and the ripest one, in their opinion. After that the watermelon was weighed, and the scales showed w kilos. They rushed home, dying of thirst, and decided to divide the berry, however they faced a hard problem.
 
@@ -536,7 +573,7 @@ output
 YES
 
 
-                                                                          22.Word
+                                                                        Word
 
 Vasya is very upset that many people on the Net mix uppercase and lowercase letters in one word. That's why he decided to invent an extension for his favorite browser that would change the letters' register in every word so that it either only consisted of lowercase letters or, vice versa, only of uppercase ones. At that as little as possible letters should be changed in the word. For example, the word HoUse must be replaced with house, and the word ViP — with VIP. If a word contains an equal number of uppercase and lowercase letters, you should replace all the letters with lowercase ones. For example, maTRIx should be replaced by matrix. Your task is to use the given method on one given word.
 
@@ -555,7 +592,7 @@ house
 
 
 
-                                                23.Word Capitalization
+                                                     Word Capitalization
 
 Capitalization is writing a word with its first letter as a capital letter. Your task is to capitalize the given word.
 
